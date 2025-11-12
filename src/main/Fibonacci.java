@@ -4,11 +4,12 @@ public class Fibonacci {
         int num2 = 1;
 
         for(int i = 1; i <= num; i++) {
-            System.out.println(num1 + " ");
+            System.out.print(num1 + " ");
             int result = num1 + num2;
             num1 = num2;
             num2 = result;
         }
+        System.out.println();
     }
 
     public long calFiboRecursive(int num) {

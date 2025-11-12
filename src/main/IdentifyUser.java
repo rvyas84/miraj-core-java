@@ -42,3 +42,6 @@ public class IdentifyUser {
         System.out.println(result);
     }
 }
+
+//Output
+//{1=[A, A, A], 2=[B, C]}

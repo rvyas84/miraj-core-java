@@ -59,3 +59,6 @@ public class IdentifySequence {
         System.out.println(result);
     }
 }
+
+//Output
+//{AAA=1, BC=2}

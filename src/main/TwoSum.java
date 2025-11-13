@@ -4,7 +4,6 @@ import java.util.Map;
 
 public class TwoSum {
     public int[] sum(int[] input, int target) {
-        int remaining = 0;
 
         Map<Integer, Integer> num = new HashMap<>();
         for(int i = 0; i < input.length; i++) {

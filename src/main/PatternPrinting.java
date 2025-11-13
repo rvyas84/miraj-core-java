@@ -9,6 +9,11 @@ public class PatternPrinting {
             System.out.println();
         }
 
+//# # # #
+//# # # #
+//# # # #
+//# # # #
+
         System.out.println();
 
         // 2️⃣ Decreasing triangle pattern
@@ -19,6 +24,11 @@ public class PatternPrinting {
             System.out.println();
         }
 
+//# # # #
+//# # #
+//# #
+//#
+
         System.out.println();
 
         // 3️⃣ Increasing triangle pattern
@@ -28,6 +38,11 @@ public class PatternPrinting {
             }
             System.out.println();
         }
+
+//#
+//# #
+//# # #
+//# # # #
 
         System.out.println("\nPyramid");
 
@@ -44,5 +59,37 @@ public class PatternPrinting {
             }
             System.out.println();
         }
+
+//Pyramid
+//    *
+//   ***
+//  *****
+// *******
+//*********
     }
 }
+
+
+//Output
+
+//        # # # #
+//        # # # #
+//        # # # #
+//        # # # #
+//
+//        # # # #
+//        # # #
+//        # #
+//        #
+//
+//        #
+//        # #
+//        # # #
+//        # # # #
+//
+//Pyramid
+//    *
+//            ***
+//            *****
+//            *******
+//            *********
